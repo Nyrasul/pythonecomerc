@@ -16,6 +16,9 @@ Backend REST API for e-commerce, built with FastAPI and MongoDB.
 *   [Python](https://www.python.org/)
 *   [Pydantic](https://pydantic-docs.readthedocs.io/en/stable/)
 *   [bcrypt](https://pypi.org/project/bcrypt/)
+  
+## DEMO
+![image](https://github.com/user-attachments/assets/f5e86a4d-c2f5-4d03-ab61-d932d8e69ee3)
 
 ## Installation
 
